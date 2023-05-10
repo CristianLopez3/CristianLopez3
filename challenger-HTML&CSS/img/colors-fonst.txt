@@ -1,0 +1,5 @@
+primary-color: #ff7e44
+secondary-color:#034b5a
+
+Fuente Primaria: https://fonts.google.com/specimen/Work+Sans?preview.text=Flexible%20Logistics&preview.text_type=custom
+Fuente Secundaria: https://fonts.google.com/specimen/Montserrat?preview.text=We%20arrangements&preview.text_type=custom

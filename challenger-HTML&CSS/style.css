@@ -1,0 +1,736 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+
+/* VALORES FIJOS DEL DOCUMENTO */
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+:root {
+    --primary-color: #ff7e44;
+    --secondary-color: #034b5a;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p,
+a,
+li,
+label,
+input {
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+
+button:hover{
+    cursor:pointer;
+}
+
+/* ENCABEZADO PRINCIPAL DE LA PAGINA */
+
+
+header {
+    position: relative;
+    width: 100%;
+}
+
+.container {
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+
+header #hero {
+    display:block;
+    width: 100%;
+    background: url("img/hero.png");
+    background-size: cover;
+    padding: 230px 0 180px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ header nav ul {
+    display: flex;
+    text-decoration: none;
+}
+
+
+header nav ul li{
+    list-style: none;
+    padding: 5px ; 
+}
+
+header nav ul li a{
+    text-decoration: none;
+    font-weight: 600;
+    color: #000;
+    transition: .4s;
+    margin: 5px 12px;
+    font-size: 18px;
+}
+
+header nav ul li a:hover{
+    text-decoration: underline;
+    color: var(--primary-color)
+}
+
+
+/* ul li:nth-child(6) a -> otra forma de definirlo */
+nav ul #conecta a{
+    background: var(--secondary-color);
+    padding: 20px 20px;
+    color: #fff;
+}
+
+nav ul #conecta a:hover{
+    background: var(--primary-color);
+    text-decoration: none;
+}
+
+/* PRIMERA SECCION (avion de fondo) */
+
+.fila {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container h1{
+    color:#fff;
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.container #p{
+    margin: 10px 0;
+    padding: 20px 0;
+    color: #fff;
+    font-size: 18x;
+}
+
+header #boton-1 {
+    background: var(--primary-color);
+    color: white;
+    font-size: 13px;
+    padding: 20px 40px;
+    border: none;
+}
+header #boton-2 {
+    background: none;
+    color: var(--primary-color);
+    text-decoration: underline;
+    font-size: 13px;
+    padding: 20px 40px;
+    border: none;
+}
+
+/* 
+    CONTENIDO PRINCIPAL - MAIN
+    --> SECCION 1 <--
+*/
+main{
+    position: relative;
+    width: 100%;
+}
+
+main #first{
+    background: #ffffff;
+    width: 100%;
+    position: relative;
+    padding-bottom: 80px;
+}
+
+#first .fila article{
+    padding: 40px 50px;
+    text-align: left ;
+    box-shadow: 0 2px 8px -4px #999999;
+}
+
+#first .fila article h2 img{
+    width: 60px;
+    margin-right: 20px;
+}
+
+#first .fila:nth-child(1){
+    background: #ffffff;
+}
+#first .fila:nth-child(1) h2{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+#first .fila:nth-child(1) p{
+    padding-left: 80px;
+    margin-bottom: 15px;
+}
+#first .fila:nth-child(1) button{
+    color: var(--primary-color);
+    background: transparent;
+    padding: 8px 20px;
+    font-weight: 600;
+    border: 0;
+    border-left: 4px solid var(--primary-color);
+    border-right: 4px solid var(--primary-color);
+    margin-left: 80px;
+}
+
+#first .fila .ware{
+    background: var(--secondary-color);
+}
+#first .fila article:nth-child(2) h2{
+    color: #fff;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+#first .fila article:nth-child(2) p{
+    color: #fff;
+    padding-left: 80px;
+    margin-bottom: 15px;
+}
+#first .fila article:nth-child(2) button{
+    color: #fff;
+    background: transparent;
+    padding: 8px 20px;
+    font-weight: 600;
+    border: 0;
+    border-left: 4px solid var(--primary-color);
+    border-right: 4px solid var(--primary-color);
+    margin-left: 80px;
+}
+#first .welcome article{
+    padding-top: 250px
+}
+#first .welcome article{
+    box-shadow: 0 0 0 0 transparent;
+}
+
+#first .welcome article h2 {
+    font-size: 40px;
+    font-weight: bolder;
+  
+}
+
+#first .welcome article h2 b {
+    color: var(--primary-color);
+}
+
+#first .welcome article p {
+    margin: 20px 0 0 0;
+    font-size: 16px;
+}
+
+#first .welcome article button{
+    border: none;
+    margin-top: 20px;
+    padding: 20px 40px;
+    background: #f5f5f5;
+    font-size: 13px;
+    color: var(--secondary-color);
+    font-weight: 600;
+}
+
+#first .welcome  #fotos{
+   position: relative; 
+   margin-top: 5px;
+}
+
+.welcome article#fotos div {
+    position: absolute;
+    z-index: 99;
+    bottom: -96px;
+    left: -82px;
+    margin-bottom: 10px;
+}
+
+.destacados{
+    position: absolute;
+    top: -60px;
+    z-index: 20;
+    max-width: 1300px;
+    margin: 0;
+}
+
+/* SEGUNDA SECCION - #second  */
+
+main #second{
+    background: #f5f5f5;
+    width: 100%;
+    margin: 0;
+}
+
+ /* primera parte */
+
+
+main #second header{
+    margin-top: 40px;
+    padding: 100px 80px 50px;
+}
+
+#second .fila .right{
+    justify-content: space-evenly;
+}
+
+#second .fila  h2{
+    font-weight: bolder;
+    font-size: 40px;
+    display: block;
+}
+
+#second header h2 b{
+    color: var(--primary-color);
+}
+
+#second .fila p {
+    font-size: 18px;
+}
+
+.fila .right h2{
+    margin-bottom: 30px;
+}
+
+.fila .left button{
+    background: var(--secondary-color);
+    color: white;
+    font-size: 13px;
+    padding: 20px 40px;
+    border: none;
+    transition: .3s;
+}
+.fila .left button:hover{
+    background: var(--primary-color);
+    transform: scale(.95);
+}
+
+/* Segunda parte, parte de las 3 cards */
+
+#second .fila.fila1{
+    justify-content: space-evenly;
+}
+
+#second .fila .cards {
+    width: 30%;
+    max-width: 389px;
+    padding: 50px;
+    box-shadow: 0px 4px 8px -5px #999999;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    border-bottom: 4px solid var(--primary-color);
+    background: #ffffff;
+    position: relative;
+}
+
+
+.fila .cards img{
+    position: relative;
+    z-index: 9;
+    width: 60px;
+    margin-bottom: 10px;
+}
+
+.fila .cards  h3{
+    font-size: 22px;
+    position: relative;
+    z-index: 9;
+    margin: 14px 0;
+}
+
+.fila .cards  p{
+    position: relative;
+    padding: 5px 0;
+    font-weight: lighter;
+    z-index: 9;
+}
+
+.fila .cards  ul  {
+    position: relative;
+    margin:  14px 0 0;
+   padding: 0 0 0 20px;
+   z-index: 9;
+}
+
+.fila .cards  ul li{
+    position: relative;
+    padding: 5px;
+    z-index: 9;
+}
+
+#second .fila.fila1 .cards::after {
+    width: 0;
+    height: 100%;
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: var(--secondary-color);
+    z-index: 1;
+    transition: .4s;
+}
+
+#second .fila .cards:hover::after {
+    width: 100%;
+}
+
+ .cards:hover h3,
+ .cards:hover p,
+ .cards:hover li {
+    color: #fff;
+}
+
+/* SECCION 3, DONDE EL FONDO ES UN CONTENEDOR */
+
+#section3 {
+    width: 100%;
+    position: relative;
+    background: url("img/bg-section.jpg");
+    background-size: cover;
+}
+
+#section3 .fila .vertical {
+    width: 25%;
+    padding: 800px 40px 40px;
+    border-right: 1px solid #fff;
+    background: transparent;
+    transition: .4s;
+    position: relative;
+}
+
+
+#section3 .fila .vertical:hover {
+    /* background: #acacac40; */
+    backdrop-filter: blur(15px);
+}
+
+
+#section3 .vertical h3 {
+    color: var(--primary-color);
+    font-size: 28px;
+    margin-bottom: 14px;
+}
+
+#section3 .vertical h2 {
+    color: #ffffff;
+    font-size: 34px;
+    margin-bottom: 14px;
+}
+
+#section3 .vertical p {
+    color: transparent;
+    margin-bottom: 14px;
+    font-size: 18px;
+    transition: .4s;
+}
+
+#section3 .vertical button {
+    background: #ffffff40;
+    color: #ffffff;
+    border: 0 transparent;
+    padding: 14px 20px;
+    font-size: 18px;
+}
+
+
+#section3 .vertical .info-card {
+    position: absolute;
+    bottom: 30px;
+    transition: .4s;
+}
+
+#section3 .vertical:hover .info-card {
+    bottom: 130px;
+}
+
+#section3 .vertical:hover p {
+    color: #ffffff;
+}
+
+/* CUARTA SECCION */
+#seccion4{
+    width: 100%;
+}
+
+#seccion4 .fila.verde{
+    width: 100%;
+    background: var(--secondary-color);
+    flex-direction: column;
+    padding: 120px 40px;
+}
+#seccion4 .fila.verde h2{
+    font-size: 40px;
+    font-weight: bolder;
+    color: #fff;
+    margin-bottom: 25px;
+}
+#seccion4 .fila.verde h2 span{
+    color: var(--primary-color);
+}
+
+#seccion4 .fila.verde p{
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
+
+#seccion4 .fila.ultima{
+    background: white;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    padding-bottom: 40px;
+}
+
+#seccion4 .fila.ultima .ultima-fila h2{
+    font-size: 35px;
+    font-weight: bolder;
+}
+#seccion4 .fila.ultima .ultima-fila h2 span{
+    color: var(--primary-color);
+}
+#seccion4 .fila.ultima .ultima-fila p{
+    font-size: 18px;
+}
+
+#seccion4 .goals-container{
+    display: flex;
+    width: 100%;
+}
+
+.goals-container .card-goals{
+    justify-content: center;
+    padding-top: 60px;
+    width: 25%;
+}
+.goals-container .card-goals i{
+    font-size:60px;
+    color: var(--primary-color);
+    padding: 10px 0;
+    transition: .5s;
+}
+.goals-container .card-goals i:hover{
+    color: var(--secondary-color);
+}
+
+.goals-container .card-goals h3{
+    padding: 5px;
+    font-weight: lighter;
+    font-size: 30px;
+}
+.goals-container .card-goals h4{
+    font-size: 26px;
+    font-weight: bolder;
+    padding-bottom: 5px;
+}
+.goals-container .card-goals p{
+    font-weight: 450;
+}
+
+footer{
+    display: flex;
+    background: #f5f5f5;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: lighter;
+    padding: 50px;
+}
+
+/* 
+    RESPONSIVE DESIGN
+*/
+
+@media screen and (max-width: 520px) {
+    .container{
+        width: 100%;
+    }
+    .fila{
+        flex-direction: column;
+    }
+    nav .fila {
+        flex-direction: column;
+        text-align: center;
+        padding: 20px 0;
+        margin-bottom: 20px;
+    }
+
+    nav ul {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    nav ul li {
+        display: block;
+        padding: 10px 0;
+    }
+    
+
+    ul li a {
+        font-size: 18px;
+    }
+
+    nav ul #conecta a {
+        background: var(--secondary-color);
+        padding: 1px 12px;
+        color: #fff;
+    }
+    header #hero {
+        padding: 80px 10px;
+        text-align: center;
+    }
+
+    #hero .btn-secondary {
+        padding: 20px;
+    }
+
+    #hero h1 {
+        font-size: 25px;
+    }
+
+    #first .fila article {
+        padding: 30px 8px;
+    }
+
+    #hero p {
+        font-size: 16px;
+    }
+
+    .fila.destacados {
+        display: block;
+        position: relative;
+    }
+    #first .ware{
+        margin-bottom: 10px;
+    }
+    #first .welcome {
+        padding-top: 14px;
+        display: block;
+    }
+
+    #first .welcome .info {
+        width: 90%;
+        margin: 0 auto;
+        padding: 0;
+        text-align: center;
+    }
+
+    #first .welcome article#fotos img {
+        width: 300px;
+    }
+
+    #first .welcome article#fotos {
+        text-align: center;
+    }
+
+    #first .welcome article#fotos div img {
+        width: 200px;
+    }
+
+    .welcome article#fotos div {
+        bottom: -45px;
+        left: 7px;
+    }
+
+    .welcome .info h3 {
+        font-size: 35px;
+    }
+
+    #second {
+        padding: 60px 0 105px;
+    }
+
+    #second .fila{
+        display: block;
+    }section1
+    #second .info-second {
+        padding-left: 20px;
+    }
+
+    #second .fila button {
+        margin-right: 20px;
+        margin: 20px auto;
+        display: block;
+    }
+
+    #second .info-second h3 {
+        font-size: 35px;
+    }
+
+    #second .fila .right,
+    #second .fila .left
+    {
+        padding: 30px;
+        margin: 40px 6px 0;
+        width: 72%;
+        margin: 10px auto;
+    }
+
+    #section3{
+        padding: 50px 0;
+    }
+
+    #second .fila .card h4 {
+        font-size: 20px;
+    }
+
+    p{
+        font-size: 16px !important;
+    }
+
+    #section2 {
+        display: none;
+    }
+
+    #section4 h2{
+        font-size: 25px;
+    }
+
+    #section4 p {
+        padding: 0 20px;
+    }
+
+    #section4 h2 {
+        font-size: 25px;
+    }
+
+    #section4 .card-goals{
+        width: 100%;
+        margin: 20px auto;
+    }
+
+    #section4 .card-goals h4 {
+        font-size: 16px;
+    }
+    #section4{
+        padding: 40px 0;
+    }
+    #section4 .fila{
+        display: block;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+

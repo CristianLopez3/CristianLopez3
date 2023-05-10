@@ -1,0 +1,18 @@
+<?php 
+
+    class Conexion{
+
+        public function get_conexion(){
+
+            $host = 'localhost';
+            $db = 'mascotas';
+            $user = 'root';
+            $pass = '';
+
+            $conexion = new PDO("mysql:host=$host;dbname=$db",$user,$pass);
+            return $conexion;
+        }
+
+    }
+
+?>
