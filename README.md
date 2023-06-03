@@ -11,7 +11,7 @@ I am currently studying programming 📚
     </td>
      <td>
        <a href="https://cristianlopez3.github.io/CINESPACE/">
-         <img src="./assets/cinescape.png" width="300" height="200" alt="chal">
+         <img src="./assets/cinescape.png" width="150" height="200" alt="chal">
         </a>
     </td>
    </tr>  
