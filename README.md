@@ -1,8 +1,7 @@
-#  🌟👋 Hi there 👋 🌟
-I am currently studying programming 📚
+<p align="center"> <img src="./assets/cristian-header.png"><p>
 <hr>
 
-<table> 
+<table align="center"> 
   <tr>
     <td>
        <a href="https://github.com/CristianLopez3/Basic-Calculator-Java">
