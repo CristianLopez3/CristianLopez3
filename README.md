@@ -8,11 +8,6 @@
          <img src="./assets/Basic.png" width="150" height="200" alt="chal">
         </a>
       </td>
-     <td>
-       <a href="https://cristianlopez3.github.io/CINESPACE/">
-         <img src="./assets/cine-scape.png" width="150" height="200" alt="chal">
-        </a>
-     </td>
     <td>
        <a href="https://cristianlopez3.github.io/challenger-encriptador/">
          <img src="./assets/encrypt.png" width="200" height="200" alt="chal">
