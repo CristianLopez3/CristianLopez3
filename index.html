@@ -6,11 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
         div {
             background-color: #000;
             height: 200px;
             position: relative;
             z-index: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center
         }
 
         div::after {
@@ -40,12 +45,20 @@
             top: -98px;
             right: 50px;
         }
+
+        h1 {
+            color: #fff;
+            font-family: 'JetBrains Mono', monospace;
+            font-family: 'Ubuntu', sans-serif;
+            text-align: center;
+        }
     </style>
 </head>
 
 <body>
 
     <div style="background-image: url(./assets/back-blur.png);">
+        <h1>Hi there ✌️ <br> I'm Cristian Lopez</h1>
     </div>
 
 </body>
