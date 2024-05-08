@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cristianlopez3&label=Profile%20views&color=0e75b6&style=flat" alt="cristianlopez3" /> </p>
-<img align="center" src="./assets/title.png" />
+<img align="center" src="./assets/cover.png" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+🙋;+Drop+me+a+Message!;" />
