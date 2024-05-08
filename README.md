@@ -2,7 +2,7 @@
 <img align="center" src="./assets/cover.png" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+🙋;+Drop+me+a+Message!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&weight=600&width=500&height=70&color=F76F24&duration=4000&lines=Welcome!+🙋;+Drop+me+a+Message!;" alt="Typing svg" />
 </h1>
 
 <h3 align="center">A passionate Backend developer from Colombia 🇨🇴 </h3>
@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Academic**
+ 🔭 I’m currently working on **Personal Projects**
  
- 🌱 I’m currently learning **Docker, Linux, Testing**
+ 🌱 I’m currently learning **Docker, Testing, Advanced Java**
 
  💬 Ask me about **Java, Typescript, JavaScript , SQL, MongoDB... or anything [here](https://github.com/CristianLopez3/CristianLopez3/issues)**
 
@@ -40,9 +40,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,idea,typescript" /> 
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,idea,typescript" /> 
     <br />
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,javascript,php,mongodb,mysql,linux,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,javascript,tailwindcss,mongodb,mysql,linux,docker" /><br>
 </div>
 
 <br/>
