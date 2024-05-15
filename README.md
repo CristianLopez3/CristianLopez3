@@ -4,18 +4,17 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&weight=600&width=500&height=70&color=F76F24&duration=4000&lines=Welcome!+🙋;+Drop+me+a+Message!;" alt="Typing svg" />
 </h1>
-
 <h3 align="center">A passionate Backend developer from Colombia 🇨🇴 </h3>
 
 <br/>
 
-<div align="center">
+<div>
  
  🔭 I’m currently working on **Personal Projects**
  
  🌱 I’m currently learning **Docker, Testing, Advanced Java**
 
- 💬 Ask me about **Java, Typescript, JavaScript , SQL, MongoDB... or anything [here](https://github.com/CristianLopez3/CristianLopez3/issues)**
+ 💬 Ask me about **Java, Typescript, JavaScript, React, SQL, MongoDB... [here](https://github.com/CristianLopez3/CristianLopez3/issues)**
 
  ⚡ **Fun fact:**
  > The first computer known to run a program stored in its memory was the Manchester Small-Scale Experimental Machine (SSEM) or "Baby." Its inaugural program was written to find prime numbers.
