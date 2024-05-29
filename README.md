@@ -36,28 +36,22 @@
 "Baby." Its inaugural program was written to find prime numbers.
 
  </div>
- 
 
 
 
  <hr/>
  
-## I Work with:
-<br/>
-<div >
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,idea,typescript" /> 
-    <br />
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,javascript,tailwindcss,mongodb,mysql,linux,docker" /><br>
-</div>
+## 👷 I work with 👷 :
 
-<br/>
-<hr/>
+<img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,idea,typescript,java,spring,javascript,tailwindcss,mongodb,mysql,docker" /> 
+
 
 
 <hr/>
 <br />
 
-<h2 align="center">🌟 Stats 🌟</h2>
+
+## 🌟 Stats 🌟
 
 
 |<img width="300" src="https://github-readme-stats-salesp07.vercel.app/api?username=CristianLopez3&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />   |  <img width="300" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CristianLopez3&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> | <img width="300" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CristianLopez3&count_private=true&theme=react&border_radius=10" alt="streak stats"/> |
@@ -65,15 +59,15 @@
 
 
 
-## Contributions
+## ☄️ Contributions ☄️
     
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br/><br/>
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)" width="300">
 </h3>
 
 <br/>
