@@ -17,7 +17,7 @@ jobs:
       
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GBHTOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GHTOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 300
 
