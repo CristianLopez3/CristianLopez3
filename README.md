@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=cristianlopez3&label=Profile%20views&color=0e75b6&style=flat" alt="cristianlopez3" /> </p>
+<img src="https://komarev.com/ghpvc/?username=cristianlopez3&label=Profile%20views&color=0e75b6&style=flat" alt="cristianlopez3" /> 
 <img align="center" src="./assets/cover.png" />
 
 <h1 align="center">
@@ -26,7 +26,7 @@
  
  🔭 I’m currently working on **Personal Projects**
  
- 🌱 I’m currently learning **Docker, Testing, Advanced Java**
+ 🌱 I’m currently learning **Microservices and Functional Programming**
 
  💬 Ask me about **Java, Spring, Typescript, JavaScript, React, SQL, 
  MongoDB... [here](https://github.com/CristianLopez3/CristianLopez3/issues)**
