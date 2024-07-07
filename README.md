@@ -24,9 +24,9 @@
 
 <div>
  
- 🔭 I’m currently working on **Personal Projects**
+ 🔭 I’m currently working on **Microservices Project**
  
- 🌱 I’m currently learning **Microservices and Functional Programming**
+ 🌱 I’m currently learning **Microservices and Java Core**
 
  💬 Ask me about **Java, Spring, Typescript, JavaScript, React, SQL, 
  MongoDB... [here](https://github.com/CristianLopez3/CristianLopez3/issues)**
