@@ -24,7 +24,7 @@
 
 <div>
  
- 🔭 I’m currently working on **Microservices Project**
+ 🔭 I’m currently working on **My Globant Career**
  
  🌱 I’m currently learning **Microservices and Java Core**
 
