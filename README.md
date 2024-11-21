@@ -26,10 +26,10 @@
  
  🔭 I’m currently working on **My Globant Career**
  
- 🌱 I’m currently learning **Microservices and Java Core**
+ 🌱 I’m currently learning **Microservices, Reactive and System Design**
 
  💬 Ask me about **Java, Spring, Typescript, JavaScript, React, SQL, 
- MongoDB... [here](https://github.com/CristianLopez3/CristianLopez3/issues)**
+ MongoDB, MuleSoft... [ ➡️ here ⬅️](https://github.com/CristianLopez3/CristianLopez3/issues)**
 
  ⚡ **Fun fact:**
  > The first computer known to run a program stored in its memory was the Manchester Small-Scale Experimental Machine (SSEM) or
@@ -38,16 +38,13 @@
  </div>
 
 
-
- <hr/>
+<br />
  
-## 👷 I work with 👷 :
+#  🧑‍💻 My Working Stack 
 
-<img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,idea,typescript,java,spring,javascript,tailwindcss,mongodb,mysql,docker" /> 
+<img src="https://skillicons.dev/icons?i=java,spring,react,vscode,github,git,idea,typescript,javascript,tailwindcss,mongodb,mysql,docker,html,css" /> 
 
 
-
-<hr/>
 <br />
 
 
