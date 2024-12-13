@@ -17,7 +17,7 @@
 </h1>
 
 
-## A Passionate Java Developer from Colombia 🇨🇴 
+## A Passionate Software Developer from Colombia 🇨🇴 
 
 <br/>
 
