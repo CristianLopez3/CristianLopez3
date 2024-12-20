@@ -24,9 +24,9 @@
 
 <div>
  
- 🔭 I’m currently working on **My Globant Career**
+ 🔭 I’m currently working at **Globant**
  
- 🌱 I’m currently learning **Microservices, Reactive and System Design**
+ 🌱 I’m currently learning **Kubernetes, Reactive Programming and System Design**
 
  💬 Ask me about **Java, Spring, Typescript, JavaScript, React, SQL, 
  MongoDB, MuleSoft... [ ➡️ here ⬅️](https://github.com/CristianLopez3/CristianLopez3/issues)**
