@@ -19,39 +19,29 @@
 
 ## A Passionate Software Developer from Colombia 🇨🇴 
 
-<br/>
-
-
-<div>
  
- 🔭 I’m currently working at **Globant**
- 
- 🌱 I’m currently learning **Kubernetes, Reactive Programming and System Design**
-
- 💬 Ask me about **Java, Spring, Typescript, JavaScript, React, SQL, 
+* 🔭 I’m currently looking for a job.
+* 🌱 I’m currently learning **Kubernetes, AWS and System Design**
+* 💬 Ask me about **Java, Spring, Microservices, Typescript, JavaScript, React, SQL, 
  MongoDB, MuleSoft... [ ➡️ here ⬅️](https://github.com/CristianLopez3/CristianLopez3/issues)**
 
- ⚡ **Fun fact:**
- > The first computer known to run a program stored in its memory was the Manchester Small-Scale Experimental Machine (SSEM) or
-"Baby." Its inaugural program was written to find prime numbers.
-
- </div>
-
-
-<br />
+**Fun fact ⚡:**
+ > _The first computer known to run a program stored in its memory was the Manchester Small-Scale Experimental Machine (SSEM) or
+"Baby." Its inaugural program was written to find prime numbers._
  
-#  🧑‍💻 My Working Stack 
+## My Working Stack 🧑‍💻 
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,vscode,github,git,idea,typescript,javascript,tailwindcss,mongodb,mysql,docker,html,css" /> 
+<img src="https://skillicons.dev/icons?i=java,spring,idea,mysql,github,git,docker,mongodb" /> 
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,vscode,tailwindcss,html,css" /> 
 
 
 <br />
 
 
-## 🌟 Stats 🌟
+## Stats 🌟
 
 
-|<img width="300" src="https://github-readme-stats-salesp07.vercel.app/api?username=CristianLopez3&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />   |  <img width="300" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CristianLopez3&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> | <img width="300" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CristianLopez3&count_private=true&theme=react&border_radius=10" alt="streak stats"/> |
+|<img width="300" src="https://github-readme-stats-salesp07.vercel.app/api?username=CristianLopez3&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=2" alt="readme stats" />   |  <img width="300" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CristianLopez3&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=2&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> | <img width="300" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CristianLopez3&count_private=true&theme=react&border_radius=2" alt="streak stats"/> |
 |-----------|-----------|-----------|
 
 
