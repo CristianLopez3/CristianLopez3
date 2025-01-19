@@ -31,7 +31,7 @@
  
 ## My Working Stack 🧑‍💻 
 
-<img src="https://skillicons.dev/icons?i=java,spring,idea,mysql,github,git,docker,mongodb" /> 
+<img src="https://skillicons.dev/icons?i=java,spring,idea,mysql,github,git,docker,mongodb,kafka,rabbitmq" /> 
 <img src="https://skillicons.dev/icons?i=typescript,javascript,react,vscode,tailwindcss,html,css" /> 
 
 
