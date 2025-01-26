@@ -20,7 +20,7 @@
 ## A Passionate Software Developer from Colombia 🇨🇴 
 
  
-* 🔭 I’m currently looking for a job.
+* 🔭 I’m currently Working in Globant as a **Java Developer**.
 * 🌱 I’m currently learning **Kubernetes, AWS and System Design**
 * 💬 Ask me about **Java, Spring, Microservices, Typescript, JavaScript, React, SQL, 
  MongoDB, MuleSoft... [ ➡️ here ⬅️](https://github.com/CristianLopez3/CristianLopez3/issues)**
@@ -31,7 +31,7 @@
  
 ## My Working Stack 🧑‍💻 
 
-<img src="https://skillicons.dev/icons?i=java,spring,idea,mysql,github,git,docker,mongodb,kafka,rabbitmq" /> 
+<img src="https://skillicons.dev/icons?i=java,spring,idea,mysql,github,git,docker,mongodb,kafka,rabbitmq,splunk" /> 
 <img src="https://skillicons.dev/icons?i=typescript,javascript,react,vscode,tailwindcss,html,css" /> 
 
 
