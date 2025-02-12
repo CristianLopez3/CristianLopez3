@@ -22,7 +22,7 @@
  
 * 🔭 I’m currently Working in Globant as a **Java Developer**.
 * 🌱 I’m currently learning **Kubernetes, AWS and System Design**
-* 💬 Ask me about **Java, Spring, Microservices, Typescript, JavaScript, React, SQL, 
+* 💬 Ask me about **Java, Spring, Microservices, Typescript, Splunk, React, SQL, 
  MongoDB, MuleSoft... [ ➡️ here ⬅️](https://github.com/CristianLopez3/CristianLopez3/issues)**
 
 **Fun fact ⚡:**
