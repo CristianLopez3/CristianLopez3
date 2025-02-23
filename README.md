@@ -21,7 +21,7 @@
 
  
 * 🔭 I’m currently Working in Globant as a **Java Developer**.
-* 🌱 I’m currently learning **Splunk, AWS and How to become better at Legacy Code**
+* 🌱 I’m currently learning **Splunk, AWS and Angular...**
 * 💬 Ask me about **Java, Spring, Microservices, Typescript, Splunk, React, SQL, NoSQL... [ ➡️ here ⬅️](https://github.com/CristianLopez3/CristianLopez3/issues)**
 
 **Fun fact ⚡:**
@@ -31,7 +31,7 @@
 ## My Working Stack 🧑‍💻 
 
 <img src="https://skillicons.dev/icons?i=java,spring,idea,mysql,github,git,docker,mongodb,kafka,rabbitmq,splunk" /> 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,vscode,tailwindcss,html,css" /> 
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,angular,vscode,tailwindcss,html,css" /> 
 
 
 <br />
