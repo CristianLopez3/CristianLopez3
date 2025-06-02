@@ -22,7 +22,7 @@
  
 * 🔭 I’m currently Working in Globant as a **Java Developer**.
 * 🌱 I’m currently learning **Splunk, AWS and Angular...**
-* 💬 Ask me about **Java, Spring, Microservices, Typescript, Splunk, React, SQL, NoSQL... [ ➡️ here ⬅️](https://github.com/CristianLopez3/CristianLopez3/issues)**
+* 💬 Ask me about **AWS, Cloud, Monitoring tasks and Large project.. [ ➡️ here ⬅️](https://github.com/CristianLopez3/CristianLopez3/issues)**
 
 **Fun fact ⚡:**
  > _The first computer known to run a program stored in its memory was the Manchester Small-Scale Experimental Machine (SSEM) or
