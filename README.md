@@ -21,7 +21,7 @@
 
  
 * 🔭 I’m currently Working in Globant as a **Java Developer**.
-* 🌱 I’m currently learning **Splunk, AWS and Angular...**
+* 🌱 I’m currently learning **Splunk, AWS, C++ and Angular...**
 * 💬 Ask me about **AWS, Cloud, Monitoring tasks and Large project.. [ ➡️ here ⬅️](https://github.com/CristianLopez3/CristianLopez3/issues)**
 
 **Fun fact ⚡:**
